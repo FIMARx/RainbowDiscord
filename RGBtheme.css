@@ -5,7 +5,6 @@ Dm my discord for help. FIMARx#1321
 
 Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg
 */
-
 .title-eS5yk3 {
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
@@ -192,6 +191,18 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 } 
+.closedFolderIconWrapper-15K9MK {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+} 
+.expandedFolderBackground-2sPsd- {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}  
+.expandedFolderIconWrapper-1xLaU- {
+     color: white;
+    animation: background 5s linear 0s infinite alternate;
+}   
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
