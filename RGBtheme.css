@@ -238,7 +238,138 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
 .metadata-3WGS0M {
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
-}      
+} 
+/* edit/reaction/delete background area to be rgb
+.wrapper-2aW0bm {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+} 
+*/
+.icon-3Gkjwa {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.categoryIcon-1SvUHG {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.headerLabel-3dG4M- {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.headerCollapseIcon-ymwSPR {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.header-19cWci {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.lookBlank-3eh9lL {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.nicknames-1XK4Zt, .spacer-3kEb8l {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.akaBadge-1M-1Gw {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+} 
+.headerName-fajvi9, .headerTagUsernameNoNickname-2_H881 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.bodyTitle-Y0qMQz {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.roleName-32vpEy {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.protip-YaFfgO {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.activityName-1IaRLn, .nameNormal-2lqVQK, .nameWrap-3Z4G_9 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.details-38sfDr, .nameNormal-2lqVQK, .playTime-2uWd1Z, .state-Tt0LO3, .timestamp-VjAZmo {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.unread-2lAfLh {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+.icon-2yIBmh {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.label-22pbtT {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.arrow-gKvcEx {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}    
+.icon-2aINcz, .text-2e2ZyG {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}    
+.disableColor-2z9rkr, .iconBackgroundTierNone-3ZkOsa, .iconBackgroundTierOne-2OQMBY, .iconBackgroundTierThree-FWlUL9, .iconBackgroundTierTwo-Eab9L6 {   
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}   
+.topic-TCb_qw.expandable-9fI_e3 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.edited-3sfAzf {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.repliedTextContentIcon-1ivTae {
+     color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .description-2ug5H_ .filename-ovv3c5 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}    
+.uploadModal-2ifh8j .inner-3nWsbo .comment-4IWttf .label-3aiqT2 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.uploadModal-2ifh8j .inner-3nWsbo .comment-4IWttf .label-3aiqT2 .optional--ezibr {   
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.sprite-2iCowe {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.description-1sDbzZ {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.colorHeaderPrimary-26Jzh- {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.needAccount-23l_Wh {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+   
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
