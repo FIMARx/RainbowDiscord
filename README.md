@@ -2,7 +2,7 @@ __________
 # Rainbow Discord
 __________
 
-*A rainbow discord theme working with the extension **stylux***
+*A rainbow discord theme working with the extension **stylus***
 __________
 >**How to get started?**
 ## installation
