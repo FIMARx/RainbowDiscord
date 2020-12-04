@@ -1,0 +1,292 @@
+/*
+This style is made by FIMARx.
+Dm my discord for help. FIMARx#1321
+Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg
+*/
+.title-eS5yk3 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.name-1jkAdW {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.username-1A8OIy {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.roleColor-rz2vM0 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+/* BOT text to be rbg
+.px-10SIf7 .botText-1526X_ {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+*/
+.activityText-yGKsKm {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.title-29uC1r {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.subtext-3CDbHg {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.container-2ax-kl {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.icon-1DeIlz {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.name-23GUGE {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.actionIcon-PgcMM2 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.app-2rEoOp button {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.item-2hkk8m {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+.botTagRegular-2HEhHi {
+    color: white;
+    animation: bgrgb 5s linear 0s infinite alternate;
+}
+.botTagRegular-2HEhHi {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+.clickable-3rdHwn .icon-22AiRD {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.name-uJV0GL {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.linkButtonIcon-Mlm5d6 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9,
+.wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
+.icon-22AiRD {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.activityText-OW8WYb {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.subtext-1RtU34 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.username-31C1TQ {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.icon-35-fSh {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.button-1w5pas {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.icon-3cZ1F_ {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+/* When you write text to search box it'll be rainbow
+.search-2oPWTC .DraftEditor-root {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+*/
+.base-1x0h_U {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.colorStandard-2KCXvj {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+/* when you write text it will be rainbow too
+.slateTextArea-1Mkdgw {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+*/
+.text-3MU_QQ {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.icon-15YQ1T {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.tabBar-ZmDY9v .item-3HknzM{
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+} 
+.colorHeaderSecondary-3Sp3Ft {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.quickswitcher-3JagVE * {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.nameTag-m8r81H .discriminator-19kRMP, .nameTag-m8r81H .username-2b1r56 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}  
+.nameTag-m8r81H {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.arrowIcon-1EMN73 {
+    color: white;
+    animation: fill 5s linear 0s infinite alternate;    
+}
+/* KeyFrames for text */
+@keyframes mytext {
+    100%,
+    0% {
+        color: rgb(255, 0, 0);
+    }
+    8% {
+        color: rgb(255, 127, 0);
+    }
+    16% {
+        color: rgb(255, 255, 0);
+    }
+    25% {
+        color: rgb(127, 255, 0);
+    }
+    33% {
+        color: rgb(0, 255, 0);
+    }
+    41% {
+        color: rgb(0, 255, 127);
+    }
+    50% {
+        color: rgb(0, 255, 255);
+    }
+    58% {
+        color: rgb(0, 127, 255);
+    }
+    66% {
+        color: rgb(0, 0, 255);
+    }
+    75% {
+        color: rgb(127, 0, 255);
+    }
+    83% {
+        color: rgb(255, 0, 255);
+    }
+    91% {
+        color: rgb(255, 0, 127);
+    }
+}
+/* KeyFrames for backgrounds */
+@keyframes background {
+    100%,
+    0% {
+        background-color: rgb(255, 0, 0);
+    }
+    8% {
+        background-color: rgb(255, 127, 0);
+    }
+    16% {
+        background-color: rgb(255, 255, 0);
+    }
+    25% {
+        background-color: rgb(127, 255, 0);
+    }
+    33% {
+        background-color: rgb(0, 255, 0);
+    }
+    41% {
+        background-color: rgb(0, 255, 127);
+    }
+    50% {
+        background-color: rgb(0, 255, 255);
+    }
+    58% {
+        background-color: rgb(0, 127, 255);
+    }
+    66% {
+        background-color: rgb(0, 0, 255);
+    }
+    75% {
+        background-color: rgb(127, 0, 255);
+    }
+    83% {
+        background-color: rgb(255, 0, 255);
+    }
+    91% {
+        background-color: rgb(255, 0, 127);
+    }
+}
+/* Fills */
+@keyframes fill {
+    100%,
+    0% {
+        fill: rgb(255, 0, 0);
+    }
+    8% {
+        fill: rgb(255, 127, 0);
+    }
+    16% {
+        fill: rgb(255, 255, 0);
+    }
+    25% {
+        fill: rgb(127, 255, 0);
+    }
+    33% {
+        fill: rgb(0, 255, 0);
+    }
+    41% {
+        fill: rgb(0, 255, 127);
+    }
+    50% {
+        fill: rgb(0, 255, 255);
+    }
+    58% {
+        fill: rgb(0, 127, 255);
+    }
+    66% {
+        fill: rgb(0, 0, 255);
+    }
+    75% {
+        fill: rgb(127, 0, 255);
+    }
+    83% {
+        fill: rgb(255, 0, 255);
+    }
+    91% {
+        fill: rgb(255, 0, 127);
+    }
+}
