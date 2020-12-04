@@ -200,9 +200,13 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
     animation: background 5s linear 0s infinite alternate;
 }  
 .expandedFolderIconWrapper-1xLaU- {
-     color: white;
+    color: white;
     animation: background 5s linear 0s infinite alternate;
 }   
+.base-gE7OpD .text-1y-e8- {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
