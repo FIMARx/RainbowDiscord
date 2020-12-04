@@ -508,6 +508,10 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 }
+.customStatusText-3YJeRZ {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;    
+}
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
