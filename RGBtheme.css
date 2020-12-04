@@ -1,8 +1,3 @@
-/*
-This style is made by FIMARx.
-Dm my discord for help. FIMARx#1321
-Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3WEg
-*/
 .title-eS5yk3 {
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
@@ -19,8 +14,7 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 }
-/* BOT text to be rbg
-.px-10SIf7 .botText-1526X_ {
+/*.px-10SIf7 .botText-1526X_ {
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 }
@@ -166,10 +160,30 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 } 
-.arrowIcon-1EMN73 {
+.reactionCount-2mvXRV {
     color: white;
-    animation: fill 5s linear 0s infinite alternate;    
-}
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.childWrapper-anI2G9 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.icon-3D60ES {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.sprite-2iCowe, .emojiButtonHovered-1rWNal, .emojiButtonNormal-TdumYh, .emojiButton-3uL3Aw, .button-3AYNKb, .attachButtonPlus-jWVFah  { 
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.circleIcon-LvPL6c {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.circleIconButton-jET_ig {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
@@ -248,45 +262,5 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
     }
     91% {
         background-color: rgb(255, 0, 127);
-    }
-}
-/* Fills */
-@keyframes fill {
-    100%,
-    0% {
-        fill: rgb(255, 0, 0);
-    }
-    8% {
-        fill: rgb(255, 127, 0);
-    }
-    16% {
-        fill: rgb(255, 255, 0);
-    }
-    25% {
-        fill: rgb(127, 255, 0);
-    }
-    33% {
-        fill: rgb(0, 255, 0);
-    }
-    41% {
-        fill: rgb(0, 255, 127);
-    }
-    50% {
-        fill: rgb(0, 255, 255);
-    }
-    58% {
-        fill: rgb(0, 127, 255);
-    }
-    66% {
-        fill: rgb(0, 0, 255);
-    }
-    75% {
-        fill: rgb(127, 0, 255);
-    }
-    83% {
-        fill: rgb(255, 0, 255);
-    }
-    91% {
-        fill: rgb(255, 0, 127);
     }
 }
