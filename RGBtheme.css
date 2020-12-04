@@ -466,6 +466,23 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 }
+.total-i6us2n {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.listDefault-3ir5aS .clickable-1lCRLF.selected-3t3Csj .username-3KYl0N,
+.usernameSpeaking-RmltQx {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.pingForeground-2uAOZ3 {
+    color: white;
+    animation: fill 5s linear 0s infinite alternate;
+}
+.discriminator-22Okc1 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
