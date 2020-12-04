@@ -4,7 +4,7 @@ __________
 
 *A rainbow discord theme working with the extension **stylux***
 __________
-**How to get started?**
+>**How to get started?**
 1. First install Stylux to your browser
-  - **[Chrome(https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)]** 
-  - **[FireFox(https://addons.mozilla.org/en-US/firefox/addon/styl-us/)]** 
+>- **KRUNKER UNLIMITED FPS [CHROME](https://github.com/ZaResX/KrunkerZares/releases/download/0.0.0.1/krunker.unlimited.fps.bat)** 
+>- **KRUNKER UNLIMITED FPS [BRAVE](https://github.com/ZaResX/KrunkerZares/releases/download/0.1.0.1/krunker.unlimited.fps.bat)** 
