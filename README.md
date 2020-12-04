@@ -15,3 +15,6 @@ __________
 5. In `URL on the domain` write `discord.com`.
 __________
 > You're done now! Enjoy your RGB discord!
+__________
+## >Some pictures
+![image](https://user-images.githubusercontent.com/69573290/101140363-8945c500-361b-11eb-8667-2d3b6334f596.png)
