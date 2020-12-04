@@ -369,7 +369,18 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 } 
-   
+.colorPremium-p4p7qO .icon-LYJorE {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.icon-LYJorE, .iconContainer-2-XQPY {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.mentioned-xhSam7:before {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
