@@ -207,6 +207,38 @@ Sub to my youtube channel https://www.youtube.com/channel/UCLxuarUbS3qzUy2SpLf3W
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 } 
+.cozy-3raOZG .timestamp-3ZCmNB {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+} 
+.theme-dark .mentioned-xhSam7 .mention, .theme-light .mentioned-xhSam7 .mention {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}   
+.wrapper-3WhCwL {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.markup-2BOw-j a {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.anchor-3Z-8Bb {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.cancelButton-3hVEV6, .downloadButton-23tKQp {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}  
+.icon-1kp3fr {
+    color: white;
+    animation: background 5s linear 0s infinite alternate;
+}  
+.metadata-3WGS0M {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}      
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
