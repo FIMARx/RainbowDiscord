@@ -483,6 +483,31 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 }
+.headerText-2uyvpY {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.select-2fjwPw {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.contents-18-Yxp {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.topSectionNormal-2-vo2m .activityHeader-1PExlk,
+.topSectionNormal-2-vo2m .customStatusText-39gdCI {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.userInfoSectionHeader-CBvMDh {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
+.connectedAccountOpenIcon-2cNbq5 {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;
+}
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
