@@ -512,6 +512,14 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     color: white;
     animation: mytext 5s linear 0s infinite alternate;    
 }
+.hovered-d5PMVU {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;    
+}
+.customStatus-3tC2ig {
+    color: white;
+    animation: mytext 5s linear 0s infinite alternate;    
+}
 /* KeyFrames for text */
 @keyframes mytext {
     100%,
