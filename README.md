@@ -16,8 +16,8 @@ __________
 __________
 > You're done now! Enjoy your RGB discord!
 __________
-> **Some pictures**
-
+> # Some pictures
+__________
 > ![image](https://user-images.githubusercontent.com/69573290/101140363-8945c500-361b-11eb-8667-2d3b6334f596.png)
 __________
 > ![image](https://user-images.githubusercontent.com/69573290/101157960-a1294300-3633-11eb-90df-e3774e63ab85.png)
