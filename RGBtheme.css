@@ -164,10 +164,50 @@ Join my discord server https://discord.gg/xC3ZrYXqnM
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
 }
+
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
-    color: white;
+	background: linear-gradient(-1deg, #7289da, #266f91);
+	background-size: 400% 400%;
+	animation: lookFilled 15s ease infinite;
+}
+
+/* lookFilled */
+@keyframes lookFilled {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.numberBadge-2s8kKX base-PmTxvP{
+    background: white;
     animation: background 5s linear 0s infinite alternate;
 }
+
+.theme-dark.authBox-hW6HRx {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: theme-dark 15s ease infinite;
+}
+
+/* theme-dark */
+@keyframes theme-dark {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
 .nameTag-m8r81H {
     color: white;
     animation: mytext 5s linear 0s infinite alternate;
